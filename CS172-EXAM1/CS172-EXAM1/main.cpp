@@ -3,7 +3,9 @@ The following code was copy/pasted form the PDF File for the purpose
 of testing the class implimentation.
 
 
-Nathaniel Graham
+I affirm that all code given below was written solely by me,
+Nathaniel Lewis Graham, and that any help I received adhered 
+to the rules stated for this exam.
 */
 
 #include <iostream>
