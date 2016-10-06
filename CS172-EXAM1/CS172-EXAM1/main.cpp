@@ -1,6 +1,9 @@
 /*
 The following code was copy/pasted form the PDF File for the purpose
 of testing the class implimentation.
+
+
+Nathaniel Graham
 */
 
 #include <iostream>
